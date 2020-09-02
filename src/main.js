@@ -1,6 +1,8 @@
 import Vue from 'vue';
 
 import 'normalize.css/normalize.css';
+// 引入字体图标
+import '@/styles/fonts/iconfont.css';
 
 // 引入element-ui
 import ElementUI from 'element-ui';
